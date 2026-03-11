@@ -1,0 +1,14 @@
+C:\Users\retag.hany\source\repos\Day2EngMai\Day2EngMai\bin\Debug\net8.0\Day2EngMai.exe
+C:\Users\retag.hany\source\repos\Day2EngMai\Day2EngMai\bin\Debug\net8.0\Day2EngMai.deps.json
+C:\Users\retag.hany\source\repos\Day2EngMai\Day2EngMai\bin\Debug\net8.0\Day2EngMai.runtimeconfig.json
+C:\Users\retag.hany\source\repos\Day2EngMai\Day2EngMai\bin\Debug\net8.0\Day2EngMai.dll
+C:\Users\retag.hany\source\repos\Day2EngMai\Day2EngMai\bin\Debug\net8.0\Day2EngMai.pdb
+C:\Users\retag.hany\source\repos\Day2EngMai\Day2EngMai\obj\Debug\net8.0\Day2EngMai.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\retag.hany\source\repos\Day2EngMai\Day2EngMai\obj\Debug\net8.0\Day2EngMai.AssemblyInfoInputs.cache
+C:\Users\retag.hany\source\repos\Day2EngMai\Day2EngMai\obj\Debug\net8.0\Day2EngMai.AssemblyInfo.cs
+C:\Users\retag.hany\source\repos\Day2EngMai\Day2EngMai\obj\Debug\net8.0\Day2EngMai.csproj.CoreCompileInputs.cache
+C:\Users\retag.hany\source\repos\Day2EngMai\Day2EngMai\obj\Debug\net8.0\Day2EngMai.dll
+C:\Users\retag.hany\source\repos\Day2EngMai\Day2EngMai\obj\Debug\net8.0\refint\Day2EngMai.dll
+C:\Users\retag.hany\source\repos\Day2EngMai\Day2EngMai\obj\Debug\net8.0\Day2EngMai.pdb
+C:\Users\retag.hany\source\repos\Day2EngMai\Day2EngMai\obj\Debug\net8.0\Day2EngMai.genruntimeconfig.cache
+C:\Users\retag.hany\source\repos\Day2EngMai\Day2EngMai\obj\Debug\net8.0\ref\Day2EngMai.dll
